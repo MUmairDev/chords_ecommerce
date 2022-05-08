@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <p>
-        2022 <span style={{ color: "red" }}>Chords</span> All rights reserverd
+        2022 <span style={{ color: "red" }}>Chords</span> All rights reserved
       </p>
       <p className="icons">
         <AiFillInstagram />
